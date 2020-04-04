@@ -1,5 +1,5 @@
 _repo: Uncle-Wiggily-on-The-Flying-Rug-Or-The-Great-Adventure-on-a-Windy-March-Day_61671
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Campbell, Lang
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1937
     gutenberg_agent_id: '44668'
     url: http://www.gutenberg.org/2009/agents/44668
+covers:
+- cover_type: archival
+  image_path: 61671-h/images/cover.jpg
 creator:
   author:
     agent_name: Garis, Howard Roger
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Howard_R._Garis
     - http://www.gutenberg.org/ebooks/author/32638
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61671#Uncle-Wiggily-on-The-Flying-Rug-Or-The-Great-Adventure-on-a-Windy-March-Day
 gutenberg_issued: '2020-03-24'
 gutenberg_type: Text
 identifiers:
